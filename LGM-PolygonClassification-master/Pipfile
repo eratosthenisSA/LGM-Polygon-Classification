@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+sphinx-rtd-theme = "*"
+sphinx = "*"
+researchpy = "*"
+
+[packages]
+fiona = "*"
+geopandas = "*"
+scikit-learn = "==0.22.1"
+xgboost = "*"
+tabulate = "*"
+pandas = "*"
+
+[requires]
+python_version = "3.7"
