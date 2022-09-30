@@ -5,7 +5,7 @@ click==7.1.1
 cligj==0.5.0
 fiona==1.8.13.post1
 geopandas==0.7.0
-joblib==0.14.1
+joblib==1.2.0
 munch==2.5.0
 numpy==1.18.1
 pandas==1.0.2
